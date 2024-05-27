@@ -1,0 +1,3 @@
+# Configuração de Agendamento em AWS Lambda
+
+Expressão Cron: cron(0/10 * * * ? *)

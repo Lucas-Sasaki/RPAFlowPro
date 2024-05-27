@@ -1,0 +1,17 @@
+2024-05-27 17:50:24 - INFO - Automacao iniciada
+2024-05-27 17:50:34 - INFO - Acessando site: https://test.flowpro.com.br/
+2024-05-27 17:50:41 - INFO - Realizando login com usuario: teste.rpa
+2024-05-27 17:50:57 - INFO - Inicio navegacao no site: https://test.flowpro.com.br/
+2024-05-27 17:51:01 - INFO - Acessando demanda ATD_2966
+2024-05-27 17:51:09 - INFO - Iniciando download de arquivos
+2024-05-27 17:51:14 - INFO - Numero de arquivos baixados: 5
+2024-05-27 17:51:25 - INFO - Acessando demanda ATD_2967
+2024-05-27 17:51:32 - INFO - Iniciando download de arquivos
+2024-05-27 17:51:37 - INFO - Numero de arquivos baixados: 3
+2024-05-27 17:51:48 - INFO - Acessando demanda ATD_2968
+2024-05-27 17:51:55 - INFO - Iniciando download de arquivos
+2024-05-27 17:51:59 - INFO - Numero de arquivos baixados: 2
+2024-05-27 17:52:02 - INFO - package: mysql.connector.plugins
+2024-05-27 17:52:02 - INFO - plugin_name: caching_sha2_password
+2024-05-27 17:52:02 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2024-05-27 17:52:02 - INFO - Automacao finalizada com sucesso
